@@ -1,5 +1,5 @@
-### DEPLOY 
-https://auth-e8d5c.web.app/login/login
+# DEPLOY 
+https://auth-e8d5c.web.app
 
 # Getting Started with Create React App
 
